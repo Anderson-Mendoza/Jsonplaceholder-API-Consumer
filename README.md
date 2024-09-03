@@ -1,4 +1,4 @@
-# LLAMADAS A LA API JSONJPLACEHOLDER 🚀
+# LLAMADAS A LA API JSONPLACEHOLDER 🚀
 
 - En este proyecto, se reliza el ejercicio de hacerle una peticion a algunos recursos de la API Jsonplaceholder con el metodo global fecth() \*
 - El ejercicio principal del proyecto es hacer una peticion a la API en un rango de numeros entre 1 - 10 dependiendo del numero a si mismo la API trae el resultado por medio de su id del dato \*
